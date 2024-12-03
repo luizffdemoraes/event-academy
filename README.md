@@ -20,7 +20,7 @@ evento acadêmico. As atividades deste evento podem ser, por exemplo, palestras,
 práticas, etc. Cada atividade que ocorre possui nome, descrição, preço, e pode ser dividida em vários
 blocos de horários (por exemplo: um curso de HTML pode ocorrer em dois blocos, sendo necessário
 armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada participante, deseja-se
-cadastrar seu nome e email.
+cadastrar seu nome e email. <br>
 
 <p style="text-align: center;">
   <img alt="Diagrama de objetos" src="imagens/diagrama-de-objetos.png">
